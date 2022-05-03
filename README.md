@@ -30,9 +30,9 @@ I'm currently learning :-<br>
 &nbsp; &#8594; &nbsp;**Advanced Python**
 
 **_I love Javascript.❤_**
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishAntil07&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 ### ✨ Stats :-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AshishAntil07&theme=light&background=ffffff)](https://git.io/streak-stats)
-<br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishAntil07&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
