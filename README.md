@@ -32,8 +32,8 @@ I'm currently learning :-<br>
 
 **_I love Javascript.❤_**
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishAntil07&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishAntil07&layout=compact&theme=dark&background=#7a828e)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 ### ✨ Stats :-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AshishAntil07&theme=dark&background=black)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AshishAntil07&theme=dark&background=#272b33)](https://git.io/streak-stats)
