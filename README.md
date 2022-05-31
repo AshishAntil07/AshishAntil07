@@ -13,7 +13,8 @@
 It's Ashish, a programmer from India.<br>
 &nbsp; &rarr; &nbsp;I'm currently a learner and taking tutorials from youtube.<br>
 &nbsp; &#8594; &nbsp;I'm a part-time programmer and love to read techie articles.<br>
-&nbsp; &#8594; &nbsp;I'm basically a web developer.<br>
+&nbsp; &#8594; &nbsp;I'm basically a web developer.<br><br>
+**Looking for how to get in touch?** Here's the email : ashishantil248@gmail.com
 <hr>
 
 ### 🛠 Stack :-
