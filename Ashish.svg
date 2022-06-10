@@ -1,0 +1,14 @@
+<svg version="1.1" width="660" height="190" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    *{
+      padding:0;
+      margin:0;
+    }
+    text{
+      fill: white;
+      font-family: sans-serif;
+    }
+  </style>
+  <rect ry='100' rx='100' x='5px' y='5px' height='180' width='650' stroke='purple' stroke-width='10px' fill='purple' />
+  <text x='330' y='140' width='650' height='180' font-size="140px" text-anchor="middle">Ashish</text>
+</svg>
