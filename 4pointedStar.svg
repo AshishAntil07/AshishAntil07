@@ -1,10 +1,10 @@
 <svg version="1.1" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <polygon points='100,0 100,100 130,70' fill='black'></polygon>
-  <polygon points='100,0 100,100, 70,70' fill='gray'></polygon>
-  <polygon points='100,100 70,70, 0,100' fill='black'></polygon>
-  <polygon points='100,100, 70,130 0,100' fill='gray'></polygon>
-  <polygon points='70,130, 100,100 100,200' fill='black'></polygon>
-  <polygon points='100,100 100,200 130,140' fill='gray'></polygon>
-  <polygon points='130,140 100,100 200,100' fill='black'></polygon>
-  <polygon points='100,100 130,70 200,100' fill='gray'></polygon>
+  <polygon points='100,0 100,100 130,70' fill='orange'></polygon>
+  <polygon points='100,0 100,100, 70,70' fill='gold'></polygon>
+  <polygon points='100,100 70,70, 0,100' fill='orange'></polygon>
+  <polygon points='100,100, 70,130 0,100' fill='gold'></polygon>
+  <polygon points='70,130, 100,100 100,200' fill='orange'></polygon>
+  <polygon points='100,100 100,200 130,140' fill='gold'></polygon>
+  <polygon points='130,140 100,100 200,100' fill='orange'></polygon>
+  <polygon points='100,100 130,70 200,100' fill='gold'></polygon>
 </svg>
