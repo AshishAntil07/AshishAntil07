@@ -1,12 +1,12 @@
 <svg version="1.1" width="200" height="190" xmlns="http://www.w3.org/2000/svg">
-  <polygon points='100,0 100,100 125,65' fill='gold'></polygon>
+  <polygon points='100,0 100,100 125,65' fill='#ffbf00'></polygon>
   <polygon points='100,0 100,100, 75,65' fill='yellow'></polygon>
-  <polygon points='100,100 75,65, 5,65' fill='gold'></polygon>
+  <polygon points='100,100 75,65, 5,65' fill='#ffbf00'></polygon>
   <polygon points='100,100, 60,110 5,65' fill='yellow'></polygon>
-  <polygon points='137,111 100,100 192,65' fill='gold'></polygon>
+  <polygon points='137,111 100,100 192,65' fill='#ffbf00'></polygon>
   <polygon points='100,100 125,65 192,65' fill='yellow'></polygon>
-  <polygon points='60,110, 100,100 35,180' fill='gold'></polygon>
+  <polygon points='60,110, 100,100 35,180' fill='#ffbf00'></polygon>
   <polygon points='100,100 35,180 98,140' fill='yellow'></polygon>
-  <polygon points='98,140 100,100 160,180' fill='gold'></polygon>
+  <polygon points='98,140 100,100 160,180' fill='#ffbf00'></polygon>
   <polygon points='100,100 160,180 137,111' fill='yellow'></polygon>
 </svg>
