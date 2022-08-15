@@ -5,19 +5,14 @@
   <h3>
     <pre>Ashish Antil</pre>
   </h3>
-  <div><img src="https://komarev.com/ghpvc/?username=AshishAntil07&style=flat-square&color=green" height='21px' width = '110px'/></div>
-  <h1>Hey there 👋🏻</h1>
+  <div><img src="https://komarev.com/ghpvc/?username=AshishAntil07&style=flat-square&color=6ec6de" height='21px' width = '110px'/></div>
 </div>
 
-### 👨🏻‍💻 Know me :-
-It's Ashish, a programmer from India.<br>
-&nbsp; &rarr; &nbsp;I'm currently a learner and taking tutorials from youtube.<br>
-&nbsp; &#8594; &nbsp;I'm a part-time programmer and love to read techie articles.<br>
-&nbsp; &#8594; &nbsp;I'm basically a web developer.<br><br>
-**Looking for how to get in touch?** Here's the email : ashishantil248@gmail.com
-<hr>
+<div align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='cascadia+code'%2C+consolas&size=25&duration=4500&pause=700&color=6ec6de&center=true&vCenter=true&width=1000&lines=It's+Ashish%2C+a+programmer+from+India.;Taking+tutorials+from+Youtube.;Self-taught+programmer+and+tech+enthusiast.;2%2B+years+of+experience+in+web+development." alt="Typing SVG" /></a>
+</div>
 
-### 🛠 Stack :-
+## 🛠 Stack :-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
@@ -32,8 +27,14 @@ I'm currently learning :-<br>
 
 **_I love Javascript.❤_**
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishAntil07&layout=compact&theme=dark&background=#7a828e)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
 
-### ✨ Stats :-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AshishAntil07&theme=dark&background=#272b33)](https://git.io/streak-stats)
+## ✨ Stats :-
+
+<a href='https://git.io/streak-stats'>
+  <img src='http://github-readme-streak-stats.herokuapp.com?user=AshishAntil07&theme=dark&currStreakLabel=6ec6de&ring=6ec6de&fire=6ec6de&stroke=6ec6de&border=6ec6de&background=0d1017' height='180px'>
+</a>  <a href='https://github.com/anuraghazra/github-readme-stats'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AshishAntil07&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ec6de&border_color=6ec6de&height=150' height='180px'>
+</a>
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AshishAntil07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
