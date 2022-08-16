@@ -31,9 +31,9 @@ I'm currently learning :-<br>
 ## ✨ Stats :-
 
 <a href='https://git.io/streak-stats'>
-  <img src='http://github-readme-streak-stats.herokuapp.com?user=AshishAntil07&theme=dark&currStreakLabel=6ec6de&ring=6ec6de&fire=6ec6de&stroke=6ec6de&border=6ec6de&background=0d1017'>
+  <img src='http://github-readme-streak-stats.herokuapp.com?user=AshishAntil07&theme=dark&currStreakLabel=6ec6de&ring=6ec6de&fire=6ec6de&stroke=6ec6de&border=6ec6de&background=0d1017' height='190px'>
 </a>  <a href='https://github.com/anuraghazra/github-readme-stats'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AshishAntil07&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ec6de&border_color=6ec6de&height=150'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AshishAntil07&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ec6de&border_color=6ec6de' height='130px'>
 </a>
 
 
