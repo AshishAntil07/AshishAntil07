@@ -9,7 +9,7 @@
 </div>
 
 <div align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='cascadia+code'%2C+consolas&size=25&duration=4500&pause=700&color=6ec6de&center=true&vCenter=true&width=1000&lines=It's+Ashish%2C+a+programmer+from+India.;Taking+tutorials+from+Youtube.;Self-taught+programmer+and+tech+enthusiast.;2%2B+years+of+experience+in+web+development." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code%2c+consolas&size=25&duration=5000&pause=200&color=6ec6de&center=true&vCenter=true&width=1000&lines=It's+Ashish%2C+a+programmer+from+India.;Taking+tutorials+from+Youtube.;Self-taught+programmer+and+tech+enthusiast.;2%2B+years+of+experience+in+web+development." alt="Typing SVG" /></a>
 </div>
 
 ## 🛠 Stack :
