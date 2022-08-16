@@ -12,7 +12,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='cascadia+code'%2C+consolas&size=25&duration=4500&pause=700&color=6ec6de&center=true&vCenter=true&width=1000&lines=It's+Ashish%2C+a+programmer+from+India.;Taking+tutorials+from+Youtube.;Self-taught+programmer+and+tech+enthusiast.;2%2B+years+of+experience+in+web+development." alt="Typing SVG" /></a>
 </div>
 
-## 🛠 Stack :-
+## 🛠 Stack :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
@@ -28,7 +28,18 @@ I'm currently learning :-<br>
 **_I love Javascript.❤_**
 <br><br>
 
-## ✨ Stats :-
+## 🌟 Top Repositories :
+
+<div>
+  <a href='https://github.com/AshishAntil07/MyNotes'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=MyNotes&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+  <a href='https://github.com/AshishAntil07/TyperacerClone'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=TyperacerClone&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+  <a href='https://github.com/AshishAntil07/EquationVerifier'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=EquationVerifier&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+  <a href='https://github.com/AshishAntil07/HackingTypingWebsites'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=HackingTypingWebsites&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+  <a href='https://github.com/AshishAntil07/Sample_Website_Components'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=Sample_Website_Components&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+  <a href='https://github.com/AshishAntil07/CodingBuiltins.py'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=CodingBuiltins.py&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+</div>
+
+## ✨ Stats :
 
 <a href='https://git.io/streak-stats'>
   <img src='http://github-readme-streak-stats.herokuapp.com?user=AshishAntil07&theme=dark&currStreakLabel=6ec6de&ring=6ec6de&fire=6ec6de&stroke=6ec6de&border=6ec6de&background=0d1017' height='190px'>
