@@ -12,6 +12,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code%2c+consolas&size=25&duration=5000&pause=200&color=6ec6de&center=true&vCenter=true&width=1000&lines=It's+Ashish%2C+a+programmer+from+India.;Taking+tutorials+from+Youtube.;Self-taught+programmer+and+tech+enthusiast.;2%2B+years+of+experience+in+web+development." alt="Typing SVG" /></a>
 </div>
 
+<div align='center'>
+  <a href='https://github.com/AshishAntil07/'>
+    <embed src="https://type-svg.herokuapp.com/TypingText.svg?text=It's+Ashish%2C+a+programmer+from+India.+|+Taking+tutorials+from+Youtube.+|+Self-taught+programmer+and+tech+enthusiast.+|+2%2B+years+of+experience+in+web+development.&family=consolas&color=#6ec6de&timePerChar=80&rest=1000" type='image/svg+xml'>
+  </a>
+</div>
+
 ## 🛠 Stack :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
