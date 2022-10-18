@@ -37,9 +37,9 @@ I'm currently learning :-<br>
 ## 🌟 Top Repositories :
 
 <div>
+  <a href='https://github.com/AshishAntil07/Sketchboard'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=Sketchboard&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
   <a href='https://github.com/AshishAntil07/MyNotes'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=MyNotes&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
   <a href='https://github.com/AshishAntil07/TyperacerClone'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=TyperacerClone&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
-  <a href='https://github.com/AshishAntil07/EquationVerifier'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=EquationVerifier&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
   <a href='https://github.com/AshishAntil07/HackingTypingWebsites'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=HackingTypingWebsites&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
   <a href='https://github.com/AshishAntil07/Sample_Website_Components'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=Sample_Website_Components&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
   <a href='https://github.com/AshishAntil07/CodingBuiltins.py'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=CodingBuiltins.py&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
