@@ -54,4 +54,4 @@ I'm currently learning :-<br>
 </a>
 
 
-[![Ashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=AshishAntil07&theme=react-dark&area_color=4b889bad)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshishAntil07&theme=react-dark&area_color=34a2c4)](https://github.com/ashutosh00710/github-readme-activity-graph)
