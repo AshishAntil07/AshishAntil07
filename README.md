@@ -37,21 +37,23 @@ I'm currently learning :-<br>
 ## 🌟 Top Repositories :
 
 <div>
-  <a href='https://github.com/AshishAntil07/Sketchboard'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=Sketchboard&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
-  <a href='https://github.com/AshishAntil07/MyNotes'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=MyNotes&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
-  <a href='https://github.com/AshishAntil07/TyperacerClone'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=TyperacerClone&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
-  <a href='https://github.com/AshishAntil07/HackingTypingWebsites'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=HackingTypingWebsites&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
-  <a href='https://github.com/AshishAntil07/Sample_Website_Components'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=Sample_Website_Components&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
-  <a href='https://github.com/AshishAntil07/CodingBuiltins.py'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=CodingBuiltins.py&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+  <a href='https://github.com/AshishAntil07/Sketchboard'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=Sketchboard&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de'></a>
+  <a href='https://github.com/AshishAntil07/MyNotes'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=MyNotes&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de'></a>
+  <a href='https://github.com/AshishAntil07/TyperacerClone'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=TyperacerClone&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de'></a>
+  <a href='https://github.com/AshishAntil07/HackingTypingWebsites'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=HackingTypingWebsites&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de'></a>
+  <a href='https://github.com/AshishAntil07/Sample_Website_Components'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=Sample_Website_Components&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de'></a>
+  <a href='https://github.com/AshishAntil07/CodingBuiltins.py'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AshishAntil07&repo=CodingBuiltins.py&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de'></a>
 </div>
 
 ## ✨ Stats :
 
 <a href='https://git.io/streak-stats'>
-  <img src='http://github-readme-streak-stats.herokuapp.com?user=AshishAntil07&theme=dark&currStreakLabel=6ec6de&ring=6ec6de&fire=6ec6de&stroke=6ec6de&border=6ec6de&background=0d1017' height='190px'>
+  <img src='http://github-readme-streak-stats.herokuapp.com?user=AshishAntil07&theme=dark&currStreakLabel=6ec6de&ring=6ec6de&fire=6ec6de&stroke=6ec6de&background=0d1017' height='190px'>
 </a>  <a href='https://github.com/anuraghazra/github-readme-stats'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AshishAntil07&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ec6de&border_color=6ec6de' height='130px'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AshishAntil07&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ec6de' height='130px'>
 </a>
 
 
 [![Ashish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshishAntil07&theme=react-dark&area_color=34a2c4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishAntil07&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ec6de&border_color=6ec6de)](https://github.com/anuraghazra/github-readme-stats) -->
