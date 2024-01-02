@@ -25,11 +25,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src='https://github.com/AshishAntil07/AshishAntil07/blob/home/SVGLogo.png' title='SVG' alt='SVG' width='40' height='40'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' title='React' alt='React' width='40' height='40'>
 </div>
 
 I'm currently learning :-<br>
-&nbsp; &rarr; &nbsp;**React JS**<br>
-&nbsp; &#8594; &nbsp;**Advanced Python**
+&nbsp; &rarr; &nbsp;**AI/ML**<br>
 
 **_I love Javascript.❤_**
 <br><br>
