@@ -14,7 +14,7 @@
 
 <div align='center'>
   <a href='https://github.com/AshishAntil07/'>
-    <embed src="https://type-svg.herokuapp.com/TypingText.svg?text=It's+Ashish%2C+a+programmer+from+India.+|+Taking+tutorials+from+Youtube.+|+Self-taught+programmer+and+tech+enthusiast.+|+2%2B+years+of+experience+in+web+development.&family=consolas&color=#6ec6de&timePerChar=80&rest=1000" type='image/svg+xml'>
+    <embed src="https://type-svg.herokuapp.com/TypingText.svg?text=It's+Ashish%2C+a+programmer+from+India.+Self-taught+programmer+and+tech+enthusiast.+|+2%2B+years+of+experience+in+web+development.&family=consolas&color=#6ec6de&timePerChar=80&rest=1000" type='image/svg+xml'>
   </a>
 </div>
 
@@ -29,7 +29,8 @@
 </div>
 
 I'm currently learning :-<br>
-&nbsp; &rarr; &nbsp;**AI/ML**<br>
+&nbsp; &rarr; &nbsp;**Rust**<br>
+
 
 **_I love Javascript.❤_**
 <br><br>
